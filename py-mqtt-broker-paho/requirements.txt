@@ -1,0 +1,2 @@
+paho-python
+amqtt
