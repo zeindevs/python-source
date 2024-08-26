@@ -1,0 +1,7 @@
+rich
+orjson
+curl_cffi
+selectolax
+httpx
+sqlalchemy
+extruct
